@@ -8,8 +8,7 @@
 
 🔭 I’m currently working on improving my skills in SQL 
 
-Tools and Languages: ![images](https://github.com/Shirlsak/Shirlsak/assets/124059202/e2d05ec2-6b73-4568-9150-89fdfbc31815)
-
+Tools and Languages: ![images]
 
 
 📫 How to reach me @email:konnorshirley31@gmail.com
