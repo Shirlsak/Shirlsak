@@ -9,7 +9,7 @@
 🔭 I’m currently working on improving my skills in SQL 
 
 Tools and Languages: 
-![images]
+
 
 
 📫 How to reach me @email:konnorshirley31@gmail.com
