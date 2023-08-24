@@ -4,7 +4,7 @@
 
 🎓 I have a Bachelor of Science in Statistics with Mathematics
 
-😉 I am interest in Data analytics and passionate about solving complex problems using data-driven approaches
+😉 I am interested in Data analytics and passionate about solving complex problems using data-driven approaches
 
 🔭 I’m currently working on improving my skills in SQL 
 
