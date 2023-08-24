@@ -7,9 +7,8 @@
 😉 I am interested in Data analytics and passionate about solving complex problems using data-driven approaches
 
 🔭 I’m currently working on improving my skills in SQL 
-![images](https://github.com/Shirlsak/Shirlsak/assets/124059202/e2d05ec2-6b73-4568-9150-89fdfbc31815)
 
-Tools and Languages: 
+Tools and Languages: ![images](https://github.com/Shirlsak/Shirlsak/assets/124059202/e2d05ec2-6b73-4568-9150-89fdfbc31815)
 
 
 
