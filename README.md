@@ -1,4 +1,4 @@
-### 👋😘 Hi there, my name is Shirley
+### 👋 Hi there, my name is Shirley
 
 🌱 I’m currently pursuing a Masters in Data Science
 
