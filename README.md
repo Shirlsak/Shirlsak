@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name is Shirley
 
-🌱 I’m currently pursuing a Masters in Data Science
+🌱 I’m currently hold a Masters in Data Science
 
 🎓 I have a Bachelor of Science in Statistics with Mathematics
 
