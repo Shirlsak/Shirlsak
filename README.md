@@ -1,6 +1,8 @@
 ### 👋 Hi there, my name is Shirley
 
-🌱 I currently hold a Masters in Data Science
+🏢 I am currently aspiring to be Health Data Scientist 
+
+🌱 I hold a Masters in Data Science
 
 🎓 I have a Bachelor of Science in Statistics with Mathematics
 
